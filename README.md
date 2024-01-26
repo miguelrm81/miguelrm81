@@ -31,7 +31,7 @@
 <br>
 
 
-### Languages and Tools: 
+## Languages and Tools: 
 
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 <img align="left" alt="Python" title="Python" width="32px" src="https://img.icons8.com/color/48/000000/python.png" />
@@ -53,16 +53,8 @@
 <br>
 <br>
 <br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelrm81&show_icons=true&locale=en&&theme=ocean_dark" alt="miguelrm81" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelrm81&show_icons=true&locale=en&theme=ocean_dark" alt="miguelrm8" /></p>
-
-<br>
-<br>
-<br>
   
-
+## Most relevant projects:
   
 <a href="https://github.com/miguelrm81/EDA">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miguelrm81&repo=EDA&theme=ocean_dark" />
@@ -73,3 +65,11 @@
 <a href="https://github.com/miguelrm81/Proyecto_ML-_Vinos">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miguelrm81&repo=Proyecto_ML-_Vinos&theme=ocean_dark" />
 </a>
+
+<br>
+<br>
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelrm81&show_icons=true&locale=en&&theme=ocean_dark" alt="miguelrm81" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelrm81&show_icons=true&locale=en&theme=ocean_dark" alt="miguelrm8" /></p>
