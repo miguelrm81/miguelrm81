@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning: **Power BI and MySQL**
 
-- 💬 Interested in: **Python, NLP, Machine Leaarning**
+- 💬 Interested in: **Python, NLP, Machine Learning**
 
 - 🏢 I’m currently open : **New job oportunity**
 
@@ -33,22 +33,22 @@
 
 ### Languages and Tools: 
 
-<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="36px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-<img align="left" alt="Python" title="Python" width="36px" src="https://img.icons8.com/color/48/000000/python.png" />
-<img align="left" alt="Flask" title="Flask" width="36px" src="https://img.icons8.com/color/48/000000/flask.png" />
-<img align="left" alt="GitHub" title="GitHub" width="36px" src="https://img.icons8.com/color/48/000000/github.png" />
-<img align="left" alt="Git" title="Git" width="36px" src="https://img.icons8.com/color/48/000000/git.png" />
-<img align="left" alt="SQL" title="SQL" width="36px" src="https://img.icons8.com/color/48/000000/sql.png" />
-<img align="left" alt="HTML5" title="HTML5" width="36px" src="https://img.icons8.com/color/48/000000/html-5.png" />
-<img align="left" alt="NoSQL" title="NoSQL" width="36px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="36px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
-<img align="left" alt="Docker" title="Docker" width="36px" src="https://img.icons8.com/color/48/000000/docker.png" />
-<img align="left" alt="Power BI" title="Power BI" width="36px" src="https://img.icons8.com/color/48/000000/power-bi.png" />
-<img align="left" alt="Tableau" title="Tableau" width="36px" src="https://img.icons8.com/color/48/000000/tableau-software.png" />
-<img align="left" alt="Postman" title="Postman" width="36px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img align="left" alt="OpenCV" title="OpenCV" width="36px" src="https://img.icons8.com/color/48/000000/opencv.png" />
-<img align="left" alt="AWS" title="AWS" width="36px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
-<img align="left" alt="Azure" title="Azure" width="36px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
+<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="32px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+<img align="left" alt="Python" title="Python" width="32px" src="https://img.icons8.com/color/48/000000/python.png" />
+<img align="left" alt="Flask" title="Flask" width="32px" src="https://img.icons8.com/color/48/000000/flask.png" />
+<img align="left" alt="GitHub" title="GitHub" width="32px" src="https://img.icons8.com/color/48/000000/github.png" />
+<img align="left" alt="Git" title="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png" />
+<img align="left" alt="SQL" title="SQL" width="32px" src="https://img.icons8.com/color/48/000000/sql.png" />
+<img align="left" alt="HTML5" title="HTML5" width="32px" src="https://img.icons8.com/color/48/000000/html-5.png" />
+<img align="left" alt="NoSQL" title="NoSQL" width="32px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="32px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
+<img align="left" alt="Docker" title="Docker" width="32px" src="https://img.icons8.com/color/48/000000/docker.png" />
+<img align="left" alt="Power BI" title="Power BI" width="32px" src="https://img.icons8.com/color/48/000000/power-bi.png" />
+<img align="left" alt="Tableau" title="Tableau" width="32px" src="https://img.icons8.com/color/48/000000/tableau-software.png" />
+<img align="left" alt="Postman" title="Postman" width="32px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+<img align="left" alt="OpenCV" title="OpenCV" width="32px" src="https://img.icons8.com/color/48/000000/opencv.png" />
+<img align="left" alt="AWS" title="AWS" width="32px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
+<img align="left" alt="Azure" title="Azure" width="32px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
 <br>
 <br>
 <br>
