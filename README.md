@@ -58,37 +58,18 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelrm81&show_icons=true&locale=en&theme=ocean_dark" alt="miguelrm8" /></p>
 
-
-<!--
 <br>
-  <br>
-  <br>
+<br>
+<br>
   
 
   
-  <a href="https://github.com/SumanthBajjuri07/android-app-market-on-Gplay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=android-app-market-on-Gplay&theme=great-gatsby" />
+<a href="https://github.com/miguelrm81/EDA">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miguelrm81&repo=EDA&theme=ocean_dark" />
 </a>
-<a href="https://github.com/SumanthBajjuri07/clear-date-predictor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=clear-date-predictor&theme=great-gatsby" />
+<a href="https://github.com/miguelrm81/gpt_docs">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miguelrm81&repo=gpt_docs&theme=ocean_dark" />
 </a>
-
-  <a href="https://github.com/SumanthBajjuri07/project-football-matches">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=project-football-matches&theme=great-gatsby" />
+<a href="https://github.com/miguelrm81/Proyecto_ML-_Vinos">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miguelrm81&repo=Proyecto_ML-_Vinos&theme=ocean_dark" />
 </a>
-<a href="https://github.com/SumanthBajjuri07/investigating-the-netflix-movies">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=investigating-the-netflix-movies&theme=great-gatsby" />
-</a>
-
-  <a href="https://github.com/SumanthBajjuri07/disney-movies-and-box-office-success">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=disney-movies-and-box-office-success&theme=great-gatsby" />
-</a>
-<a href="https://github.com/SumanthBajjuri07/collab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=collab&theme=great-gatsby" />
-</a>
-  
-  
- 
-  <br>
-  <br>
--->
